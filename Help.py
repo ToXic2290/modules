@@ -1,4 +1,5 @@
 # Список модулей с возможностью сортировки
+# meta developer: @ToXicUse
 
 
 import inspect
