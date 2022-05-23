@@ -1,5 +1,4 @@
 # meta developer: @ToXicUse
-# meta link: https://t.me/HACKER_PHONE_VIP
 
 
 import io
